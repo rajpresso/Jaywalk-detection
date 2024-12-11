@@ -1,0 +1,9 @@
+pip install segmentation_models_pytorch
+pip install ultralytics     
+pip install albumentations
+pip install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia
+pip install scikit-learn
+pip install matplotlib
+pip install mean_average_precision
+pip install cv2
+pip install tqdm
